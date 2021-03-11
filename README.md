@@ -11,10 +11,10 @@ In this project we are going to create resources, that will help you to understa
 
 ### Athlete Montitoring 
 -	Monitoring Dashboards
-... Individualized Speed Thresholds
-...	Metabolic Power / Energy Level
-... Internal / External Ratio
-... Individualized TRIMP coefficients
+...Individualized Speed Thresholds
+...Metabolic Power / Energy Level
+...Internal / External Ratio
+...Individualized TRIMP coefficients
 -	Framework for downloading, processing, reporting
 -	API download
 -	Data processing
@@ -43,21 +43,21 @@ In this project we are going to create resources, that will help you to understa
 
 ### Data Merging
 -	Data processing (sensor data (IMU), mobile data, questionnares)
-... Energy modelling
+...Energy modelling
 -	Data Merging
-... Example: Data Merger (Mobisens)
-... data aggregation
-... event analysis
+...Example: Data Merger (Mobisens)
+...data aggregation
+...event analysis
 - Research
-... activity ~ well-beeing
-... Electrodermal activity (EDA) ~ stress
-... EDA ~ activity
-... EMG ~ psychosocial parameters
-... activity ~ HR(V)
+...activity ~ well-beeing
+...Electrodermal activity (EDA) ~ stress
+...EDA ~ activity
+...EMG ~ psychosocial parameters
+...activity ~ HR(V)
 
 ### Real-Time Feedback
 -	Data Processing / Analysis for feedback on health-promoting behaviour
-... Next-Level Project ...
+...Next-Level Project ...
 
 ### Modulartige Software der durchgeführten Analysen (vgl Jamovi)
 - Integrative point & click surface of the analysis above (e.g. Lactate thresholds, gait analysis)
@@ -67,9 +67,9 @@ In this project we are going to create resources, that will help you to understa
 
 ### Health-Navigation portal
 - Meta-Database of all health-related activities: prevention/rehabilitation courses, recreational sports, dietary consultance, etc.
-... Merge existing data
-... Merge user-generated data
-... Data Mining: anamnesis, evidence - treatment tailorment based on prediction models
+...Merge existing data
+...Merge user-generated data
+...Data Mining: anamnesis, evidence - treatment tailorment based on prediction models
 
 
 
