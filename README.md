@@ -11,10 +11,11 @@ In this project we are going to create resources, that will help you to understa
 
 ### Athlete Montitoring 
 -	Monitoring Dashboards
-...Individualized Speed Thresholds
-...Metabolic Power / Energy Level
-...Internal / External Ratio
-...Individualized TRIMP coefficients
+
+...Individualized Speed Thresholds..
+...Metabolic Power / Energy Level..
+...Internal / External Ratio..
+...Individualized TRIMP coefficients..
 -	Framework for downloading, processing, reporting
 -	API download
 -	Data processing
