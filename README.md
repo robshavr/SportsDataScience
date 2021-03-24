@@ -1,4 +1,4 @@
-# Sport Science goes Open Source: A repositorium for educational resources
+# Sports Science goes Open Source: A repositorium for educational resources
 In this project we are going to create resources, that will help you to understand and code common analyses in the sport sciences. We will cover a broad range from simple to advanced topics. You are welcome to contribute!
 ## Current state
 
