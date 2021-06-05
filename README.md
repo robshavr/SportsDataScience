@@ -39,6 +39,7 @@ For all important commands: https://confluence.atlassian.com/bitbucketserver/bas
 
 - Create a directory for our Project.
 - press Right Click and open "Git Bash"
+- create a connection to our GitHub: "git remote add origin https://github.com/RobShaver21/SportsDataScience.git"
 - Pull our project from the github with: "git pull https://github.com/RobShaver21/SportsDataScience.git"
 - You can now make changes.
 - After you are done type into the git bash: "git add ."
