@@ -13,11 +13,11 @@ After learning the basics, the next step is to look up the modules:
 ### Resources to start with
 We have gathered some Recourcess to to learn with.
 For the basics:
-Websites
+Websites:
 - https://www.coursera.org/learn/python-crash-course
 - https://www.learnpython.org/
 <br>
-Videos
+Videos:
 - https://www.youtube.com/watch?v=rfscVS0vtbw
 - https://www.youtube.com/watch?v=8DvywoWv6fI
 <br>
@@ -37,7 +37,7 @@ For Module documentation:
 As Contributor you should first install git from: https://git-scm.com/
 For all important commands: https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 
-- After the first install. You have to open "Git Bash" and give in your github username and email:<br> 'git config --global user.name "Sam Smith"' and <br>'git config --global user.email sam@example.com'
+- After the first install. You have to open "Git Bash" and give in your github username and email:<br> 'git config --global user.name "Example Name"' and <br>'git config --global user.email name@example.com'
 
 - Create a directory for our Project.
 - press Right Click and open "Git Bash"
