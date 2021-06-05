@@ -16,9 +16,11 @@ For the basics:
 Websites
 - https://www.coursera.org/learn/python-crash-course
 - https://www.learnpython.org/
+<br>
 Videos
 - https://www.youtube.com/watch?v=rfscVS0vtbw
 - https://www.youtube.com/watch?v=8DvywoWv6fI
+<br>
 GitHub:
 - https://github.com/anvinh01/LearningPython 
 
@@ -35,7 +37,7 @@ For Module documentation:
 As Contributor you should first install git from: https://git-scm.com/
 For all important commands: https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 
-- After the first install. You have to open "Git Bash" and give in your github username and email: 'git config --global user.name "Sam Smith"' and 'git config --global user.email sam@example.com'
+- After the first install. You have to open "Git Bash" and give in your github username and email:<br> 'git config --global user.name "Sam Smith"' and <br>'git config --global user.email sam@example.com'
 
 - Create a directory for our Project.
 - press Right Click and open "Git Bash"
