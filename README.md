@@ -16,11 +16,11 @@ For the basics:
 Websites:
 - https://www.coursera.org/learn/python-crash-course
 - https://www.learnpython.org/
-<br>
+
 Videos:
 - https://www.youtube.com/watch?v=rfscVS0vtbw
 - https://www.youtube.com/watch?v=8DvywoWv6fI
-<br>
+
 GitHub:
 - https://github.com/anvinh01/LearningPython 
 
