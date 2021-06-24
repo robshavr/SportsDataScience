@@ -3,7 +3,7 @@ In this project we are going to create resources, that will help you to understa
 
 ## Current State: Baby Shoes
 
-The first ressources (python notebooks) are available, but still require your feedback to improve! The topics we are going to work on are listed under *Topics*. Feel free to contact us on Discord (https://discord.gg/handCaqz) if you like to collaborate. 
+The first ressources (python notebooks) are available, but still require your feedback to improve! The topics we are going to work on are listed under *Topics*. Feel free to contact us on Discord (https://discord.gg/hn6vFAV6Z2) if you like to collaborate. 
 
 ## Guide for newbies
 We would advise you to start learning some basic python.
