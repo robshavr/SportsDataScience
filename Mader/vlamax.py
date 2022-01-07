@@ -10,10 +10,7 @@ from ipywidgets import *
 class Model:
 
     def __init__(self, VO2max=58.6, vLamax=0.5, RunningEco=11.95, Ks1=0.25, Ks2=1.2, VolRel=0.45):
-        '''
-            params:
 
-        '''
         self.VO2max = VO2max
         self.vLamax = vLamax
         self.RunningEco = RunningEco
@@ -104,6 +101,7 @@ class Model:
         plt.show()
     
     def slider(self):
+        # Slider only works for jupyter notebooks
         slider = interact(self.update, 
             VO2max = widgets.FloatSlider(value=55, min=40, max=80,step=0.5),
             vLamax = widgets.FloatSlider(value=0.5, min=0.2, max=1.5,step=0.01),
@@ -113,7 +111,3 @@ class Model:
             VolRel = widgets.FloatSlider(value=.45, min=.42, max=.45,step=0.01))
         
         
-
-
-Vmodel = Model()
-Vmodel.slider()
