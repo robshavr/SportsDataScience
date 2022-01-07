@@ -7,6 +7,7 @@ To import the local file:<br>
 Create the class: <code>Test = Model(VO2max=60)</code>
 
 <h3> Parameters</h3>
+
 following parameters are given for creating the Model. If none are given, then the defualt values will be used:
 - VO2max = 58.6
 - vLamax = 0.5
