@@ -29,7 +29,7 @@ class Model:
         self.vLanet = self.calc_vLanet()
 
     # ==============================[ update Values ]===============================
-    def update(self, VO2max=58.6, vLamax=0.5, RunningEco=11.95, Ks1=0.25, Ks2=1.2, VolRel=0.45):
+    def update(self, VO2max=58.6, vLamax=0.5, RunningEco=11.95, Ks1=0.25, Ks2=1.2, VolRel=0.45, plot=False):
         # update the inital values
         self.VO2max = VO2max
         self.vLamax = vLamax
@@ -44,6 +44,9 @@ class Model:
         self.calc_vLass()
         self.calc_LaComb()
         self.calc_vLanet()
+
+        if plot is True:
+            self.plot_lactate()
     
     def recalculate(self):
         # calculate the other values again
@@ -116,6 +119,9 @@ class Model:
             RunningEco = widgets.FloatSlider(value=11.95, min=10, max=15,step=0.05),
             Ks1 = widgets.FloatSlider(value=0.25 , min=0.2, max=0.3,step=0.01),
             Ks2 = widgets.FloatSlider(value=1.2, min=1, max=1.3,step=0.01),
-            VolRel = widgets.FloatSlider(value=.45, min=.42, max=.45,step=0.01))
+            VolRel = widgets.FloatSlider(value=.45, min=.42, max=.45,step=0.01),
+            plot = True)
+        
+        
         
         

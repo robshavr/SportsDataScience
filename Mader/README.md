@@ -1,4 +1,6 @@
 <h1> Overview: vlmax.py</h1>
+A demonstration is avaible in the <code>vlamax_test.ipynb</code> file
+
 <h2> import local file</h2>
 To import the local file:<br>
 <code>from vlamax.py import Model</code>
