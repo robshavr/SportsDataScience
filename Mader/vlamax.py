@@ -44,6 +44,14 @@ class Model:
         self.calc_vLass()
         self.calc_LaComb()
         self.calc_vLanet()
+    
+    def recalculate(self):
+        # calculate the other values again
+        self.calc_ADP()
+        self.calc_vLass()
+        self.calc_LaComb()
+        self.calc_vLanet()
+
 
     # ===============================[ Calculation functions ]================================
     def calc_ADP(self):
